@@ -2,8 +2,8 @@
 title: Justin Shin
 role: Ph.D. Candidate
 avatar_filename: avatar.jpg
-bio: My research interests include fairness, causation, philosophy of law, and
-  history of medicine.
+bio: This page is under construction! My research interests include fairness,
+  causation, philosophy of law, and AI ethics.
 interests:
   - Causation
   - Philosophy of Law
@@ -37,5 +37,5 @@ highlight_name: true
 first_name: Alice
 email: jjs240@pitt.edu
 ---
-Justin is a graduate student at the University of Pittsburgh, working in the History and Philosophy of Science Department. His interests include causation, philosophy of law, and the history of medicine. He is currently thinking about causal fairness criteria, statistical evidence in law, and the history of conversion therapy. 
+Justin is a graduate student at the University of Pittsburgh, working in the History and Philosophy of Science Department. His interests include causation, philosophy of law, and AI ethics. He is currently thinking about causal fairness criteria, statistical evidence in law, and the history of conversion therapy. 
 {style="text-align: justify;"}
